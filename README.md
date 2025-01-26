@@ -162,6 +162,4 @@ El frontend estará disponible en: `http://localhost:4200`.
    - **Frontend:** `http://localhost:4200`
    - **Backend (API interactiva):** `http://localhost:5295/swagger`
 
----
 
-¿Dudas o mejoras? Si necesitas ayuda para configurar o entender alguna parte del proyecto, ¡házmelo saber!
